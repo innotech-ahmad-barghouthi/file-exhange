@@ -1,0 +1,33 @@
+{
+  "clients": [
+		{
+			"id": 1,
+			"clientName": "cepres.com",
+			"creationDate": "2023-10-01",
+			"processingFiles": "5",
+			"emailDomain": "ahmad.barghouti@cepres.com"
+		},
+		{
+			"id": 2,
+			"clientName": "bny.com",
+			"creationDate": "2023-09-15",
+			"processingFiles": "3",
+			"emailDomain": "tarek@bny.com"
+		},
+		{
+			"id": 3,
+			"clientName": "ifc.com",
+			"creationDate": "2023-09-15",
+			"processingFiles": "3",
+			"emailDomain": "hasan@ifc.com"
+		}
+]
+,
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
