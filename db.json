@@ -1,28 +1,4 @@
 {
-  "clients": [
-		{
-			"id": 1,
-			"clientName": "cepres.com",
-			"creationDate": "2023-10-01",
-			"processingFiles": "5",
-			"emailDomain": "ahmad.barghouti@a.com"
-		},
-		{
-			"id": 2,
-			"clientName": "tarek.com",
-			"creationDate": "2023-09-15",
-			"processingFiles": "3",
-			"emailDomain": "tarek@t.com"
-		},
-		{
-			"id": 3,
-			"clientName": "hasan.com",
-			"creationDate": "2023-09-15",
-			"processingFiles": "3",
-			"emailDomain": "hasan@h.com"
-		}
-]
-,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
