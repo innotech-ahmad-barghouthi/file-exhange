@@ -5,21 +5,21 @@
 			"clientName": "cepres.com",
 			"creationDate": "2023-10-01",
 			"processingFiles": "5",
-			"emailDomain": "ahmad.barghouti@cepres.com"
+			"emailDomain": "ahmad.barghouti@a.com"
 		},
 		{
 			"id": 2,
-			"clientName": "bny.com",
+			"clientName": "tarek.com",
 			"creationDate": "2023-09-15",
 			"processingFiles": "3",
-			"emailDomain": "tarek@bny.com"
+			"emailDomain": "tarek@t.com"
 		},
 		{
 			"id": 3,
-			"clientName": "ifc.com",
+			"clientName": "hasan.com",
 			"creationDate": "2023-09-15",
 			"processingFiles": "3",
-			"emailDomain": "hasan@ifc.com"
+			"emailDomain": "hasan@h.com"
 		}
 ]
 ,
